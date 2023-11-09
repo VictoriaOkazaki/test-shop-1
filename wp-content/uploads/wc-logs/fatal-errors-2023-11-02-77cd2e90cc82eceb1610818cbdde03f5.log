@@ -1,0 +1,28 @@
+2023-11-02T13:20:56+00:00 CRITICAL syntax error, unexpected '{', expecting '(' в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\customizer.php на строке 36
+
+2023-11-02T13:31:52+00:00 CRITICAL syntax error, unexpected '{', expecting '(' в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\customizer.php на строке 36
+
+2023-11-02T13:31:54+00:00 CRITICAL syntax error, unexpected '{', expecting '(' в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\customizer.php на строке 36
+
+2023-11-02T13:31:58+00:00 CRITICAL syntax error, unexpected '{', expecting '(' в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\customizer.php на строке 36
+
+2023-11-02T13:32:23+00:00 CRITICAL syntax error, unexpected '{', expecting '(' в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\customizer.php на строке 36
+
+2023-11-02T13:32:26+00:00 CRITICAL syntax error, unexpected '{', expecting '(' в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\customizer.php на строке 36
+
+2023-11-02T13:32:49+00:00 CRITICAL syntax error, unexpected '}', expecting ';' в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\customizer.php на строке 43
+
+2023-11-02T13:32:52+00:00 CRITICAL syntax error, unexpected '}', expecting ';' в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\customizer.php на строке 43
+
+2023-11-02T13:38:42+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) в C:\OpenServer\domains\shop\wp-content\themes\shop\header.php на строке 238
+
+2023-11-02T14:28:04+00:00 CRITICAL syntax error, unexpected ''singular_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\custom-post-types.php на строке 10
+
+2023-11-02T14:28:08+00:00 CRITICAL syntax error, unexpected ''singular_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\custom-post-types.php на строке 10
+
+2023-11-02T14:28:09+00:00 CRITICAL syntax error, unexpected ''singular_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\custom-post-types.php на строке 10
+
+2023-11-02T14:28:10+00:00 CRITICAL syntax error, unexpected ''singular_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\custom-post-types.php на строке 10
+
+2023-11-02T14:28:11+00:00 CRITICAL syntax error, unexpected ''singular_name'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\custom-post-types.php на строке 10
+

@@ -1,0 +1,100 @@
+2023-11-08T08:42:48+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::wc_get_cart_url() in C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php:103
+Stack trace:
+#0 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OpenServer\domains\shop\wp-content\themes\shop\header.php(176): woocommerce_mini_cart()
+#3 C:\OpenServer\domains\shop\wp-includes\template.php(785): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\shop\wp-includes\template.php(720): load_template()
+#5 C:\OpenServer\domains\shop\wp-includes\general-template.php(48): locate_template()
+#6 C:\OpenServer\domains\shop\wp-content\themes\shop\front-page.php(1): get_header()
+#7 C:\OpenServer\domains\shop\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#8 C:\OpenServer\domains\shop\wp-blog-header.php(19): require_once('C:\\OpenServer\\d. в C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php на строке 103
+
+2023-11-08T08:43:01+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::wc_get_cart_url() in C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php:103
+Stack trace:
+#0 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OpenServer\domains\shop\wp-content\themes\shop\header.php(176): woocommerce_mini_cart()
+#3 C:\OpenServer\domains\shop\wp-includes\template.php(785): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\shop\wp-includes\template.php(720): load_template()
+#5 C:\OpenServer\domains\shop\wp-includes\general-template.php(48): locate_template()
+#6 C:\OpenServer\domains\shop\wp-content\themes\shop\front-page.php(1): get_header()
+#7 C:\OpenServer\domains\shop\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#8 C:\OpenServer\domains\shop\wp-blog-header.php(19): require_once('C:\\OpenServer\\d. в C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php на строке 103
+
+2023-11-08T08:43:17+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::wc_get_cart_url() in C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php:103
+Stack trace:
+#0 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OpenServer\domains\shop\wp-content\themes\shop\header.php(176): woocommerce_mini_cart()
+#3 C:\OpenServer\domains\shop\wp-includes\template.php(785): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\shop\wp-includes\template.php(720): load_template()
+#5 C:\OpenServer\domains\shop\wp-includes\general-template.php(48): locate_template()
+#6 C:\OpenServer\domains\shop\wp-content\themes\shop\front-page.php(1): get_header()
+#7 C:\OpenServer\domains\shop\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#8 C:\OpenServer\domains\shop\wp-blog-header.php(19): require_once('C:\\OpenServer\\d. в C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php на строке 103
+
+2023-11-08T08:43:25+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::wc_get_cart_url() in C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php:103
+Stack trace:
+#0 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OpenServer\domains\shop\wp-content\themes\shop\header.php(176): woocommerce_mini_cart()
+#3 C:\OpenServer\domains\shop\wp-includes\template.php(785): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\shop\wp-includes\template.php(720): load_template()
+#5 C:\OpenServer\domains\shop\wp-includes\general-template.php(48): locate_template()
+#6 C:\OpenServer\domains\shop\wp-content\themes\shop\front-page.php(1): get_header()
+#7 C:\OpenServer\domains\shop\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#8 C:\OpenServer\domains\shop\wp-blog-header.php(19): require_once('C:\\OpenServer\\d. в C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php на строке 103
+
+2023-11-08T08:44:12+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::wc_get_cart_url() in C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php:103
+Stack trace:
+#0 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OpenServer\domains\shop\wp-content\themes\shop\header.php(176): woocommerce_mini_cart()
+#3 C:\OpenServer\domains\shop\wp-includes\template.php(785): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\shop\wp-includes\template.php(720): load_template()
+#5 C:\OpenServer\domains\shop\wp-includes\general-template.php(48): locate_template()
+#6 C:\OpenServer\domains\shop\wp-content\themes\shop\front-page.php(1): get_header()
+#7 C:\OpenServer\domains\shop\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#8 C:\OpenServer\domains\shop\wp-blog-header.php(19): require_once('C:\\OpenServer\\d. в C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php на строке 103
+
+2023-11-08T08:44:19+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::wc_get_cart_url() in C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php:103
+Stack trace:
+#0 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OpenServer\domains\shop\wp-content\themes\shop\header.php(176): woocommerce_mini_cart()
+#3 C:\OpenServer\domains\shop\wp-includes\template.php(785): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\shop\wp-includes\template.php(720): load_template()
+#5 C:\OpenServer\domains\shop\wp-includes\general-template.php(48): locate_template()
+#6 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\templates\archive-product.php(20): get_header()
+#7 C:\OpenServer\domains\shop\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#8 C:\OpenServer\domains\shop\wp-blog-header.php(19): require_ в C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php на строке 103
+
+2023-11-08T08:44:44+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::wc_get_cart_url() in C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php:103
+Stack trace:
+#0 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OpenServer\domains\shop\wp-content\themes\shop\header.php(176): woocommerce_mini_cart()
+#3 C:\OpenServer\domains\shop\wp-includes\template.php(785): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\shop\wp-includes\template.php(720): load_template()
+#5 C:\OpenServer\domains\shop\wp-includes\general-template.php(48): locate_template()
+#6 C:\OpenServer\domains\shop\wp-content\themes\shop\front-page.php(1): get_header()
+#7 C:\OpenServer\domains\shop\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#8 C:\OpenServer\domains\shop\wp-blog-header.php(19): require_once('C:\\OpenServer\\d. в C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php на строке 103
+
+2023-11-08T08:45:01+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Cart::wc_get_cart_url() in C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php:103
+Stack trace:
+#0 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include()
+#1 C:\OpenServer\domains\shop\wp-content\plugins\woocommerce\includes\wc-template-functions.php(2285): wc_get_template()
+#2 C:\OpenServer\domains\shop\wp-content\themes\shop\header.php(176): woocommerce_mini_cart()
+#3 C:\OpenServer\domains\shop\wp-includes\template.php(785): require_once('C:\\OpenServer\\d...')
+#4 C:\OpenServer\domains\shop\wp-includes\template.php(720): load_template()
+#5 C:\OpenServer\domains\shop\wp-includes\general-template.php(48): locate_template()
+#6 C:\OpenServer\domains\shop\wp-content\themes\shop\front-page.php(1): get_header()
+#7 C:\OpenServer\domains\shop\wp-includes\template-loader.php(106): include('C:\\OpenServer\\d...')
+#8 C:\OpenServer\domains\shop\wp-blog-header.php(19): require_once('C:\\OpenServer\\d. в C:\OpenServer\domains\shop\wp-content\themes\shop\woocommerce\cart\mini-cart.php на строке 103
+
+2023-11-08T12:54:46+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\woocommerce-hooks.php на строке 70
+
+2023-11-08T12:54:48+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\shop\wp-content\themes\shop\incs\woocommerce-hooks.php на строке 70
+

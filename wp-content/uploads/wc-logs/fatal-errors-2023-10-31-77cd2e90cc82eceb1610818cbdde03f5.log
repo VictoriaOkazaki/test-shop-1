@@ -1,0 +1,8 @@
+2023-10-31T08:31:43+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\shop\wp-content\themes\shop\functions.php на строке 20
+
+2023-10-31T08:31:53+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\shop\wp-content\themes\shop\functions.php на строке 20
+
+2023-10-31T08:31:56+00:00 CRITICAL syntax error, unexpected end of file в C:\OpenServer\domains\shop\wp-content\themes\shop\functions.php на строке 20
+
+2023-10-31T12:17:19+00:00 CRITICAL syntax error, unexpected ';', expecting ')' в C:\OpenServer\domains\shop\wp-content\themes\shop\header.php на строке 132
+
